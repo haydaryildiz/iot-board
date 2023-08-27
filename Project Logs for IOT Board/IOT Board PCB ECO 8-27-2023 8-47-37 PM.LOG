@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=C32 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C33 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C34 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C35 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C36 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C37 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C38 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C39 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C40 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=C41 Old Footprint=CAP 1206 New Footprint=CAP 0603
+Change Component Footprint: Designator=R28 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R29 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R30 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R31 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R34 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R35 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R36 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R37 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R39 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Footprint: Designator=R40 Old Footprint=RES 1206 New Footprint=RES 0603
+Change Component Comment : Designator=C34 Old Comment=C_1206_47u 100V New Comment=C_0603_47u 100V
+Change Component Comment : Designator=C35 Old Comment=C_1206_47u 100V New Comment=C_0603_47u 100V
+Change Component Comment : Designator=C38 Old Comment=C_1206_47u 100V New Comment=C_0603_47u 100V
+Change Component Comment : Designator=C39 Old Comment=C_1206_47u 100V New Comment=C_0603_47u 100V
+Change Component Comment : Designator=C41 Old Comment=C_1206_47u 100V New Comment=C_0603_47u 100V
+Change Component Comment : Designator=C32 Old Comment=C_1206_100n 100V New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C33 Old Comment=C_1206_100n 100V New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C36 Old Comment=C_1206_100n 100V New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C37 Old Comment=C_1206_100n 100V New Comment=C_0603_100n 100V
+Change Component Comment : Designator=C40 Old Comment=C_1206_100n 100V New Comment=C_0603_100n 100V

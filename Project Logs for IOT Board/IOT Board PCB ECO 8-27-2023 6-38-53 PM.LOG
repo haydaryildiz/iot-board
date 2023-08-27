@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=R? NewDesignator=R77
+Change Component Designator: OldDesignator=R? NewDesignator=R78
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR77_1
+Added Pin To Net: NetName=NetR78_1 Pin=R78-1
+Added Pin To Net: NetName=NetR78_1 Pin=U2-11
+Added Net: Name=NetR78_1
+Added Member To Class: ClassName=ESP Member=Component R78 R_0603_1K
