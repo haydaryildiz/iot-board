@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOLEX_CLK Pin=D9-3
+Removed Pin From Net: NetName=SIM_VDD Pin=D9-4
+Added Pin To Net: NetName=SIM_VDD Pin=D9-3
+Added Pin To Net: NetName=MOLEX_CLK Pin=D9-4

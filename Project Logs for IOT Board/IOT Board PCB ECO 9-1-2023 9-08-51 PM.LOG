@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RX(MCU) Pin=R95-1
+Removed Pin From Net: NetName=TX(MCU) Pin=R96-2
+Removed Member From Class: ClassName=Com Member=R95
+Removed Member From Class: ClassName=Com Member=R96
+Added Pin To Net: NetName=TX(MCU) Pin=U1-11
+Added Pin To Net: NetName=RX(MCU) Pin=U1-12

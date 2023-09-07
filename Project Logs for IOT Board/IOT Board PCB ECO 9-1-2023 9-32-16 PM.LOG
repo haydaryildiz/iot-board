@@ -1,0 +1,17 @@
+Added Component: Designator=U4(LQFP64-10x10mm)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=3V3 Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U4-27
+Added Pin To Net: NetName=VDDA Pin=U4-28
+Added Pin To Net: NetName=VDDA Pin=U4-29
+Added Pin To Net: NetName=GND Pin=U4-31
+Added Pin To Net: NetName=3V3 Pin=U4-32
+Added Pin To Net: NetName=GND Pin=U4-47
+Added Pin To Net: NetName=3V3 Pin=U4-48
+Added Pin To Net: NetName=GND Pin=U4-63
+Added Pin To Net: NetName=3V3 Pin=U4-64
+Added Member To Class: ClassName=MCU Member=Component U4 STM32G473RCT6

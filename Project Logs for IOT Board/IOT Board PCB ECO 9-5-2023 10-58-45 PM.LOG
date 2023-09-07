@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetU4_18 Pin=U4-34
+Removed Pin From Net: NetName=NetU4_18 Pin=U4-35
+Removed Pin From Net: NetName=NetU4_18 Pin=U4-36
+Added Pin To Net: NetName=PB12 Pin=R54-2
+Added Pin To Net: NetName=PB12 Pin=T5-2
+Added Pin To Net: NetName=PB12 Pin=U4-34
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=R56-2
+Added Pin To Net: NetName=PB13 Pin=T6-2
+Added Pin To Net: NetName=PB13 Pin=U4-35
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=R97-2
+Added Pin To Net: NetName=PB14 Pin=T14-2
+Added Pin To Net: NetName=PB14 Pin=U4-36
+Added Net: Name=PB14

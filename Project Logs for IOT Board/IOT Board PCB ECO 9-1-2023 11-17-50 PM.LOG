@@ -1,0 +1,89 @@
+Removed Member From Class: ClassName=Sensor Member=J22
+Removed Member From Class: ClassName=Sensor Member=J23
+Removed Member From Class: ClassName=Sensor Member=Q1
+Removed Member From Class: ClassName=Sensor Member=Q2
+Removed Member From Class: ClassName=Sensor Member=R89
+Removed Member From Class: ClassName=Sensor Member=R90
+Removed Member From Class: ClassName=Sensor Member=R91
+Removed Member From Class: ClassName=Sensor Member=R92
+Added Component: Designator=D26(Led 0603)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-D12FWT86/Rohm/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-D12FWT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-D12FWT86/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-D12FWT86/Rohm/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J24(3 Pin PCB TB 3.81)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TBP02R1-381-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R95(RES 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R96(RES 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R97(RES 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R98(RES 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T14(SOT23)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC846/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vload Pin=J24-1
+Added Pin To Net: NetName=GND Pin=J24-2
+Added Pin To Net: NetName=GND Pin=R96-1
+Added Pin To Net: NetName=GND Pin=R97-1
+Added Pin To Net: NetName=MCU Pin=R97-2
+Added Pin To Net: NetName=GND Pin=R98-1
+Added Pin To Net: NetName=MCU Pin=T14-2
+Added Pin To Net: NetName=3V3 Pin=T14-3
+Added Pin To Net: NetName=NetD26_1 Pin=D26-1
+Added Pin To Net: NetName=NetD26_1 Pin=J24-3
+Added Pin To Net: NetName=NetD26_1 Pin=R95-2
+Added Net: Name=NetD26_1
+Added Pin To Net: NetName=NetD26_2 Pin=D26-2
+Added Pin To Net: NetName=NetD26_2 Pin=R98-2
+Added Net: Name=NetD26_2
+Added Pin To Net: NetName=NetR95_1 Pin=R95-1
+Added Pin To Net: NetName=NetR95_1 Pin=R96-2
+Added Pin To Net: NetName=NetR95_1 Pin=T14-1
+Added Net: Name=NetR95_1
+Added Member To Class: ClassName=Sensor Member=Component D26 D_0603_Green
+Added Member To Class: ClassName=MCU Member=Component J22 J_3.81_2P
+Added Member To Class: ClassName=MCU Member=Component J23 J_3.81_2P
+Added Member To Class: ClassName=Sensor Member=Component J24 J_3.81_3P
+Added Member To Class: ClassName=MCU Member=Component Q1 Q_SOT23_PMV45EN2R
+Added Member To Class: ClassName=MCU Member=Component Q2 Q_SOT23_PMV45EN2R
+Added Member To Class: ClassName=MCU Member=Component R89 R_0603_1K
+Added Member To Class: ClassName=MCU Member=Component R90 R_0603_1K
+Added Member To Class: ClassName=MCU Member=Component R91 R_0603_4K7
+Added Member To Class: ClassName=MCU Member=Component R92 R_0603_4K7
+Added Member To Class: ClassName=Sensor Member=Component R95 R_0603_27K
+Added Member To Class: ClassName=Sensor Member=Component R96 R_0603_4K7
+Added Member To Class: ClassName=Sensor Member=Component R97 R_0603_4K7
+Added Member To Class: ClassName=Sensor Member=Component R98 R_0603_2K2
+Added Member To Class: ClassName=Sensor Member=Component T14 BC846

@@ -1,0 +1,14 @@
+Added Component: Designator=U12(SOT23-5)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1016-1871-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/maxlinear-inc/SPX3819M5-L-TR/1016-1871-1-ND/3586588?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MaxLinear, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SPX3819M5-L/TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Exar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SPX3819M5-L/TR/MaxLinear,%20Inc./view-part/35772/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V8 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=3V8 Pin=U12-3
+Added Pin To Net: NetName=NetC52_2 Pin=U12-4
+Added Pin To Net: NetName=3V3 Pin=U12-5
+Added Member To Class: ClassName=Power Member=Component U12 SPX3819M5-L3-3

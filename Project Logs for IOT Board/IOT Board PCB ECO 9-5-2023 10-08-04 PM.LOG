@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=MCU Pin=R89-2
+Removed Pin From Net: NetName=MCU Pin=R90-2
+Added Pin To Net: NetName=TIM1_1 Pin=R28-1
+Added Pin To Net: NetName=TIM1_3 Pin=R29-1
+Added Pin To Net: NetName=TIM1_2 Pin=R30-1
+Added Pin To Net: NetName=TIM1_4 Pin=R31-1
+Added Pin To Net: NetName=TIM2_1 Pin=R34-1
+Added Pin To Net: NetName=TIM2_3 Pin=R35-1
+Added Pin To Net: NetName=TIM2_2 Pin=R36-1
+Added Pin To Net: NetName=TIM2_4 Pin=R37-1
+Added Pin To Net: NetName=TIM3_1 Pin=R39-1
+Added Pin To Net: NetName=TIM3_2 Pin=R40-1
+Added Pin To Net: NetName=TIM3_3 Pin=R89-2
+Added Pin To Net: NetName=TIM3_4 Pin=R90-2

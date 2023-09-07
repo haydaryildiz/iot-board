@@ -1,0 +1,28 @@
+Added Component: Designator=C50(CAP 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R103(RES 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R104(RES 0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=I2C2_SDA Pin=R103-1
+Added Pin To Net: NetName=3V3 Pin=R103-2
+Added Pin To Net: NetName=I2C2_SCL Pin=R104-1
+Added Pin To Net: NetName=3V3 Pin=R104-2
+Added Pin To Net: NetName=GND Pin=U11-4
+Added Pin To Net: NetName=I2C2_SDA Pin=U11-5
+Added Pin To Net: NetName=I2C2_SCL Pin=U11-6
+Added Pin To Net: NetName=3V3 Pin=U11-8
+Added Member To Class: ClassName=MCU Member=Component C50 C_0603_100n 100v
+Added Member To Class: ClassName=MCU Member=Component R103 R_0603_4K7
+Added Member To Class: ClassName=MCU Member=Component R104 R_0603_4K7

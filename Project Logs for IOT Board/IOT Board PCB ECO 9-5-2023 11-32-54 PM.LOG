@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=UART5_RX Pin=R77-1
+Added Pin To Net: NetName=UART5_TX Pin=R78-1
+Added Pin To Net: NetName=USART2_TX Pin=R93-2
+Added Pin To Net: NetName=USART2_RX Pin=R94-2
+Added Pin To Net: NetName=USART2_TX Pin=U1-11
+Added Pin To Net: NetName=USART2_RX Pin=U1-12
+Added Pin To Net: NetName=UART5_TX Pin=U2-11
+Added Pin To Net: NetName=UART5_RX Pin=U2-12
