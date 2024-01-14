@@ -184,6 +184,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTMIQISE
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for IOT Board\Design Rule Check - IOT Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
